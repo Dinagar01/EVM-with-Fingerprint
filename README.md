@@ -1,3 +1,2 @@
 # EVM-with-Fingerprint
-final yr project
-These are the college final year project files
+My college final year project files
